@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace Laboratorio5
 {
@@ -73,6 +74,7 @@ namespace Laboratorio5
             {
                 // Disparamos el evento
                 OnRegistered(usr, psswd, verificationlink: verificationLink, email: email);
+                
             }
             else
             {
@@ -121,5 +123,13 @@ namespace Laboratorio5
             }
             return "http://pluscorporation.com/verificar-correo.php?=" + usr + "_" + result;
         }
+
+        public void OnEmailVerified(object source, EventArgs args)
+        {
+            Thread.Sleep(2000);
+            Console.WriteLine("Se verifico correctamente su correo");
+            Thread.Sleep(2000);
+        }
+       
     }
 }
