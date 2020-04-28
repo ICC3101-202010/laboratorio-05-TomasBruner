@@ -1,0 +1,7 @@
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe.config
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.pdb
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csprojAssemblyReference.cache
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.exe
+C:\Users\tomas\Downloads\laboratorio-05-TomasBruner\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.pdb
